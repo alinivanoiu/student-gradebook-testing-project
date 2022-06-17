@@ -6,7 +6,6 @@
  
  ## Tehnologies
  - Spring Boot
- - Thymeleaf
  - MySQL
  - H2
  - JUnit 5
